@@ -3,7 +3,7 @@
 Demo Link: https://pallavixd.github.io/VoiceSecure/
 
 VoiceSecure is a frontend-based AI Deepfake Voice Detection demo that simulates the process of identifying whether an uploaded audio file is human-generated or AI-generated.
-It features a futuristic UI, authentication simulation, audio upload, animated analysis flow, and confidence-based results — all implemented in a single index.html file.
+It features a futuristic UI, authentication simulation, audio upload, animated analysis flow, and confidence-based results all implemented in a single index.html file.
 
 ⚠️ Note: This project is a UI/UX and logic simulation. No real machine learning model is used. Detection results are randomly generated to demonstrate workflow.
 
